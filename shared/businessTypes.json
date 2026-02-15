@@ -1,0 +1,82 @@
+{
+  "Bakery": {
+    "base_cost": 1800,
+    "category": "commercial",
+    "products_per_level": 8,
+    "slots_per_floor": 8,
+    "base_production_rate": 1.1,
+    "max_workers": 4,
+    "maintenance_multiplier": 1,
+    "base_reputation": 0.52
+  },
+  "Coffee Shop": {
+    "base_cost": 2100,
+    "category": "commercial",
+    "products_per_level": 13,
+    "slots_per_floor": 13,
+    "base_production_rate": 1.35,
+    "max_workers": 5,
+    "maintenance_multiplier": 1,
+    "base_reputation": 0.58
+  },
+  "Supermarket": {
+    "base_cost": 3000,
+    "category": "commercial",
+    "products_per_level": 12,
+    "slots_per_floor": 12,
+    "base_production_rate": 1.7,
+    "max_workers": 7,
+    "maintenance_multiplier": 1.2,
+    "base_reputation": 0.55
+  },
+  "Hair Salon": {
+    "base_cost": 2200,
+    "category": "commercial",
+    "products_per_level": 6,
+    "slots_per_floor": 6,
+    "base_production_rate": 0.9,
+    "max_workers": 4,
+    "maintenance_multiplier": 1,
+    "base_reputation": 0.62
+  },
+  "Gym": {
+    "base_cost": 2800,
+    "category": "commercial",
+    "products_per_level": 6,
+    "slots_per_floor": 6,
+    "base_production_rate": 0.85,
+    "max_workers": 6,
+    "maintenance_multiplier": 1.15,
+    "base_reputation": 0.6
+  },
+  "Pizza Place": {
+    "base_cost": 2400,
+    "category": "commercial",
+    "products_per_level": 8,
+    "slots_per_floor": 8,
+    "base_production_rate": 1.25,
+    "max_workers": 5,
+    "maintenance_multiplier": 1,
+    "base_reputation": 0.57
+  },
+  "Clothing Store": {
+    "base_cost": 2600,
+    "category": "commercial",
+    "products_per_level": 10,
+    "slots_per_floor": 10,
+    "base_production_rate": 1.05,
+    "max_workers": 5,
+    "maintenance_multiplier": 1.1,
+    "base_reputation": 0.59
+  },
+  "Flower Shop": {
+    "base_cost": 2000,
+    "category": "commercial",
+    "products_per_level": 9,
+    "slots_per_floor": 9,
+    "base_production_rate": 1,
+    "max_workers": 4,
+    "maintenance_multiplier": 1,
+    "base_reputation": 0.61
+  }
+}
